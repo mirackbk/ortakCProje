@@ -6,5 +6,6 @@ int main(int argc, char const *argv[]) {
     printf("Hello Samet");
     printf("Hello Miraç");
     printf("Naber moruq");
+    printf("Naber moruq 2");
     return 0;
 }
