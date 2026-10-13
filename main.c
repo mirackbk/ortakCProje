@@ -7,5 +7,6 @@ int main(int argc, char const *argv[]) {
     printf("Hello Miraç");
     printf("Naber moruq");
     printf("Naber moruq 2");
+    //denemeeeeee
     return 0;
 }
